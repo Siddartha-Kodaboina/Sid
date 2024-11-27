@@ -1,0 +1,155 @@
+{
+  "profile": {
+    "name": "Siddartha Kodaboina",
+    "description": "An MSAI student at SJSU, blending machine learning with full-stack web development to craft future-ready applications. With a toolkit spanning PyTorch, ReactJS, Django, Node, SpringBoot, AWS and Google Cloud, I refine my skills through intense hackathons. Explore with me the symphony of code and creativity!",
+    "linkedin": "https://www.linkedin.com/in/siddartha-kodaboina/",
+    "github": "https://github.com/Siddartha-Kodaboina",
+    "leetcode": "https://leetcode.com/u/saksid/",
+    "devpost": "https://devpost.com/siddartha-kodaboina"
+  },
+  "education": [
+    {
+      "schoolName": "Jawahar Navodaya Vidyalaya",
+      "major": "High School Diploma",
+      "dates": "2015-2017",
+      "logo": "/nvs.png"
+    },
+    {
+      "schoolName": "Jawaharlal Technological University",
+      "major": "Bachelor of Science in Computer Science",
+      "dates": "2017-2021",
+      "logo": "/jntuh.png"
+    },
+    {
+      "schoolName": "San Jose State University",
+      "major": "Master of Science in Computer Science - Artificial Intelligence",
+      "dates": "2023-2025",
+      "logo": "/sjsu.png"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Students Housing Platform",
+      "description": "•  Architected a 3-tier full-stack platform to assist international students find accommodation using React and Node.js backend,implementing 20+ RESTful APIs and Azure PostgreSQL database, and helping over 1000+ students across United States. • Orchastrated a robust CI/CD pipeline with GitHub Actions, creating build with Github’s Linux server and pushing them to Docker, and pulling and running them in AWS EC2 ensuring high availability and system resilience.",
+      "code": "0LPOPo-Hqso",
+      "techStack": [
+        "React",
+        "NodeJs",
+        "ExpressJs",
+        "React Router",
+        "Material UI",
+        "Firebase",
+        "MongoDB",
+        "PostgresSQL",
+        "AWS EC2",
+        "AWS S3",
+        "Google Maps API",
+        "C"
+      ],
+      "link": "https://flatmate.pro/",
+      "github": "https://github.com/Siddartha-Kodaboina/flat-mate"
+    },
+    {
+      "name": "Video Platform",
+      "description": "Created VideoVerse, a responsive YouTube-inspired app using Firebase, ReactJS, Styled Components, and Material UI, with React-router-dom, React-Axios and YouTube API integration for seamless dynamic data fetching, streaming and enabled search functionality for efficient video discovery and a user can make up to 10,000 API calls a day.",
+      "code": "mt3uPk25dJw",
+      "techStack": [
+        "React",
+        "REST APIs",
+        "Google YouTube APIs",
+        "HTML",
+        "SCSS"
+      ],
+      "link": "https://k-sid-49.web.app/",
+      "github": "https://github.com/Siddartha-Kodaboina/YouTube"
+    },
+    {
+      "name": "Gen AI based Time and Space Complexity Analyser Chrome Extension",
+      "description": "• Fine-tuned Llama 3.2 1b model using Unsloth quantization techniques with 159 manually curated time and space complexity puzzles stored in Parquet format, deploying the optimized model on EC2 for efficient inference • Created a browser extension integrating the fine-tuned model, capable of analyzing time and space complexity across 100+ coding platforms, enhancing code optimality intution for students",
+      "code": "rT1JWczcEgs",
+      "techStack": ["PyTorch", "HuggingFace Transformers", "Llama3.2", "Restack AI", "Unsloth", "Ollama", "ReactJs", "Material UI", "MongoDB", "Node JS", "OpenAI", "Ollama", "GCP"],
+      "link": "https://chromewebstore.google.com/detail/time-and-space-complexity/fnbjhmfpcmmiimaohoopdclmaolahoef?hl=en-US",
+      "github": "https://github.com/Siddartha-Kodaboina/Time-and-Space-Complexity-Extension---Local"
+    },
+    {
+      "name": "AI Does Leetcode",
+      "description": "Transform interview discussion questions into fully-functional LeetCode-style problems with just one click! This platform allows users to create and practice coding problems by simply submitting descriptions from interview discussions.",
+      "code": "L138fUyw7DE",
+      "techStack": [
+        "Django",
+        "Material UI",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "AWS EC2",
+        "AWS S3",
+        "AWS Lambda",
+        "MURF AI",
+        "AWS Polly",
+        "Restack",
+        "Judge 0"
+      ],
+      "link": "https://www.linkedin.com/posts/siddartha-kodaboina_meta-apple-amazon-activity-7265083986652065792-tLZg?utm_source=share&utm_medium=member_desktop",
+      "github": "https://github.com/Siddartha-Kodaboina/AI-Does-Leetcode"
+    },
+    {
+      "name": "LLM-Native Resume Matching Solution",
+      "description": "Traditional resume screening often depends on manual filtering and matching criteria, making it a slow and tedious process for recruiters.1⃣ Parse resumes and extract structured metadata effortlessly. 2⃣ Index resumes for quick and easy retrieval. 3⃣ Enable natural language queries to search for candidates intuitively. 4⃣ Get detailed insights into why a candidate is the right fit for a role. This complete end-to-end flow is powered by LlamaParse, LlamaCloud, and the open-source orchestrator LlamaIndex.",
+      "code": "rdG8Xx1Ye5s",
+      "techStack": [
+        "Pinecone",
+        "StreamLit",
+        "FastAPI",
+        "OpenAI",
+        "GPT-40",
+        "Llama 3.2",
+        "LlamaIndex",
+        "LlamaParse",
+        "LlamaCloud"
+      ],
+      "link": "https://www.linkedin.com/posts/siddartha-kodaboina_genai-ai-hackathon-activity-7251467228275957760-hgfS?utm_source=share&utm_medium=member_desktop",
+      "github": "https://github.com/Siddartha-Kodaboina/HR-Resume-Screener"
+    }
+  ],
+  "skills": {
+    "languages": [
+      ["JavaScript", "100%"],
+      ["Python", "95%"],
+      ["C/C++", "90%"],
+      ["Java", "90%"]
+    ],
+    "frameworks": [
+      ["React", "100%"],
+      ["NextJs", "90%"],
+      ["FastAPI", "90%"],
+      ["Flask", "85%"],
+      ["Express.Js", "80%"],
+      ["AWS", "80%"],
+      ["GCP", "80%"],
+      ["Docker", "80%"]
+    ],
+    "databases": [
+      ["Firebase", "100%"],
+      ["Redis", "90%"],
+      ["PostgreSQL", "70%"],
+      ["Pinecone", "70%"]
+    ],
+    "libraries": [
+      ["Material UI", "100%"],
+      ["PyTorch", "90%"],
+      ["Tensorflow", "90%"],
+      ["Keras", "80%"],
+      ["Pandas", "70%"],
+      ["NumPy", "70%"]
+    ]
+  },
+  "awards": [
+    {
+      "name": "Best Developer Award",
+      "date": "2022-11"
+    },
+    {
+      "name": "Innovative Solution Prize",
+      "date": "2021-09"
+    }
+  ]
+}
