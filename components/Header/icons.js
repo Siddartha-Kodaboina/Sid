@@ -37,7 +37,7 @@ const LinkIcons = ({inView}) => {
         zIndex: (theme) => theme.zIndex.drawer + 1,
       }}
     >
-      <a
+      {/* <a
         href={UserProfile.profile.devpost}
         target="_blank"
         rel="noopener noreferrer"
@@ -48,7 +48,7 @@ const LinkIcons = ({inView}) => {
           height={IconSize}
           width={IconSize}
         />
-      </a>
+      </a> */}
       <a
         href={UserProfile.profile.leetcode}
         target="_blank"
