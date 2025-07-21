@@ -112,13 +112,13 @@
   ],
   "skills": {
     "languages": [
-      ["JavaScript", "100%"],
-      ["Python", "95%"],
+      ["JavaScript", "90%"],
+      ["Python", "90%"],
       ["C/C++", "90%"],
       ["Java", "90%"]
     ],
     "frameworks": [
-      ["React", "100%"],
+      ["React", "90%"],
       ["NextJs", "90%"],
       ["FastAPI", "90%"],
       ["Flask", "85%"],
@@ -128,13 +128,13 @@
       ["Docker", "80%"]
     ],
     "databases": [
-      ["Firebase", "100%"],
+      ["Firebase", "90%"],
       ["Redis", "90%"],
       ["PostgreSQL", "70%"],
       ["Pinecone", "70%"]
     ],
     "libraries": [
-      ["Material UI", "100%"],
+      ["Material UI", "90%"],
       ["PyTorch", "90%"],
       ["Tensorflow", "90%"],
       ["Keras", "80%"],
