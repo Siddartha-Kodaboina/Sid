@@ -87,7 +87,7 @@ const Hero = () => {
         </Stack>
         <MotionAvatar
           alt="profile"
-          src={'/profile.png'}
+          src={'/profile.jpg'}
           sx={{
             width: '300px',
             height: '300px',
